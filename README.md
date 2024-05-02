@@ -1,10 +1,23 @@
+
 # Docker and Kubernetes Fundamentals Hands-On labs
 
 Files for the **Docker and Kubernetes Fundamentals** Hands-On labs
 
 [Watch the course on FreeCodeCamp's YouTube channel.](https://www.youtube.com/watch?v=kTp5xUtcalw "Watch the course")
 
-The setup instructions are listed in this file at the root of the repo: K8sFundamentals-SetupGuide-V3.pdf
+The setup instructions are listed in this file at the root of the repo: [K8sFundamentals-SetupGuide-V3.pdf](K8sFundamentals-SetupGuide-V3.pdf)
+
+## Forked from **Archived** Content
+
+This repository has been forked from Guy Barrette's archived repository [here](https://github.com/K8sAcademy/Fundamentals-HandsOn).
+This repository aims to do the following:
+
+- Ensure the labs are in working order as of 05/2024
+- Ensure the labs work with [podman](https://podman.io)
+
+## Podman Installation
+
+See [https://podman.io/docs/installation](https://podman.io/docs/installation)
 
 ## About this course
 
@@ -40,8 +53,8 @@ You’ll learn about microservices and their use cases. You’ll then learn abou
 
 ---
 
-## Meet your Instructor​
+## Meet your Instructor
 
 Guy Barrette is a developer/trainer with more then 25 years of experience. He worked for many years as a developer, solutions architect, Microsoft Certified Trainer and now he shares his passion for containers and microservices teaching Docker and Kubernetes. He was awarded Microsoft Most Valuable Professional in the Azure category and passed the following certifications: Kubernetes and Cloud Native Associate, Certified Kubernetes Application Developer (CKAD), Terraform Certified Associate, AWS Cloud Practitioner, Google Cloud Associate Cloud Engineer, Azure Fundamentals, Azure Developer Associate and Azure Architect Design.
 
-https://guybarrette.com @GuyBarrette @guybarrette@techhub.social
+[https://guybarrette.com](https://guybarrette.com) [@GuyBarrette](https://twitter.com/guybarrette) [@guybarrette@techhub.social](https://techhub.social/@guybarrette/)
